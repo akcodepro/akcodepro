@@ -1,26 +1,10 @@
-<!--
-**akcodepro/akcodepro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # 👋 Hi, I'm Alex
 
 **Junior Full-Stack Developer | Ruby on Rails, JavaScript, SQL | Le Wagon Software Engineering & AI Bootcamp | Ex-logistics & hospitality**
 
 *From parcels and cocktails to code, I like understanding how things work, finding what's broken, and building better solutions.*
-<!--
+
 ![Profile Banner](./assets/profile-banner.png)
--->
 
 ## About Me
 
