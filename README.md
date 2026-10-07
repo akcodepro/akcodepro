@@ -104,5 +104,4 @@ Professional Bachelor's Degree, Industrial Production Management, Continuous Imp
 🇫🇷 French, Native  
 🇬🇧 English, Fluent
 
-[**LinkedIn**](www.linkedin.com/in/alex-kerespars)
-[**Email**](akcodepro@gmail.com)
+[**LinkedIn**](https://www.linkedin.com/in/alex-kerespars) · [**Email**](mailto:akcodepro@gmail.com)
