@@ -4,7 +4,7 @@
 
 *From parcels and cocktails to code, I like understanding how things work, finding what's broken, and building better solutions.*
 
-![Profile Banner](./assets/profile-banner.png)
+![Profile Banner](./assets/profile-banner.webp)
 
 ## About Me
 
