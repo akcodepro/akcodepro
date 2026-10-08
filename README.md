@@ -66,9 +66,7 @@ Early-stage version deployed to Heroku, with core features still in active devel
 
 Built as part of a four-person team. I worked on the geolocation matching system using Mapbox, including rounded-coordinate matching to help keep users' exact addresses private. I also worked on buddy recommendations, the homepage view with its hero, search/create flow, carousel and tips cards, modal components, and the team's Git/PR workflow.
 
-<!--
-![RaceBuddy map and matched buddies](./assets/projects/racebuddy-matched-buddies.png)
--->
+![RaceBuddy](./assets/projects/racebuddy.webp)
 
 [Live Demo](https://www.racebuddy.me) · [GitHub](https://github.com/akcodepro/RaceBuddy)
 
