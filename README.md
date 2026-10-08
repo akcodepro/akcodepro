@@ -69,7 +69,7 @@ Early-stage version deployed to Heroku, with core features still in active devel
 
 Built as part of a four-person team. I worked on the geolocation matching system using Mapbox, including rounded-coordinate matching to help keep users' exact addresses private. I also worked on buddy recommendations, the homepage view with its hero, search/create flow, carousel and tips cards, modal components, and the team's Git/PR workflow.
 
-![RaceBuddy](./assets/projects/racebuddy.webp)
+![RaceBuddy](./assets/projects/RaceBuddy.webp)
 
 ### Rundy
 **AI-powered running plan generator**
@@ -77,9 +77,8 @@ Built as part of a four-person team. I worked on the geolocation matching system
 [Live Demo](https://rundy-lauriel-web-ca5e1380d7c9.herokuapp.com) · [GitHub](https://github.com/akcodepro/rundy)
 
 Built as part of a four-person team. I created the core data models for the AI generation flow, including Chat, Message, Objective and Session. I also wrote the RubyLLM integration and prompt for regenerating a training session from user feedback, and did the majority of the frontend styling across the app.
-<!---
-![Rundy generated running plan](./assets/projects/rundy-running-plan.png)
--->
+
+![Rundy generated running plan](./assets/projects/Rundy.webp)
 
 
 ## 📚 Currently Learning
