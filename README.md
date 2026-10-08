@@ -51,6 +51,8 @@ Git · GitHub · Heroku
 ### SKIPO
 **AI-powered jump rope workout generator, currently in development**
 
+[GitHub](https://github.com/akcodepro/skipo)
+
 A solo project I'm building from the ground up as a real product, from the initial idea and product design through backend and frontend.
 
 The idea came from noticing that most jump-rope apps focus on timers and manually configured workouts, rather than generating structured sessions around what the user actually wants to train.
@@ -59,26 +61,26 @@ I'm building SKIPO to generate workouts based on the user's goals and preference
 
 Early-stage version deployed to Heroku, with core features still in active development.
 
-[GitHub](https://github.com/akcodepro/skipo)
 
 ### RaceBuddy
 **Mobile-first web app connecting runners training for the same race**
+
+[Live Demo](https://www.racebuddy.me) · [GitHub](https://github.com/akcodepro/RaceBuddy)
 
 Built as part of a four-person team. I worked on the geolocation matching system using Mapbox, including rounded-coordinate matching to help keep users' exact addresses private. I also worked on buddy recommendations, the homepage view with its hero, search/create flow, carousel and tips cards, modal components, and the team's Git/PR workflow.
 
 ![RaceBuddy](./assets/projects/racebuddy.webp)
 
-[Live Demo](https://www.racebuddy.me) · [GitHub](https://github.com/akcodepro/RaceBuddy)
-
 ### Rundy
 **AI-powered running plan generator**
+
+[Live Demo](https://rundy-lauriel-web-ca5e1380d7c9.herokuapp.com) · [GitHub](https://github.com/akcodepro/rundy)
 
 Built as part of a four-person team. I created the core data models for the AI generation flow, including Chat, Message, Objective and Session. I also wrote the RubyLLM integration and prompt for regenerating a training session from user feedback, and did the majority of the frontend styling across the app.
 <!---
 ![Rundy generated running plan](./assets/projects/rundy-running-plan.png)
 -->
 
-[Live Demo](https://rundy-lauriel-web-ca5e1380d7c9.herokuapp.com) · [GitHub](https://github.com/akcodepro/rundy)
 
 ## 📚 Currently Learning
 
