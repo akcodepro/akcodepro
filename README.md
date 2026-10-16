@@ -51,7 +51,7 @@ Git · GitHub · Heroku
 ### SKIPO
 **AI-powered jump rope workout generator, currently in development**
 
-[GitHub](https://github.com/akcodepro/skipo)
+[Live Demo](https://skipo-app-3be98c580ead.herokuapp.com) · [GitHub](https://github.com/akcodepro/skipo)
 
 A solo project I'm building from the ground up as a real product, from the initial idea and product design through backend and frontend.
 
