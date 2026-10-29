@@ -53,6 +53,8 @@ Git · GitHub · Heroku
 
 [Live Demo](https://skipo-app-3be98c580ead.herokuapp.com) · [GitHub](https://github.com/akcodepro/skipo)
 
+Demo account: `jumper@example.com` / `letsjump`
+
 ![Skipo](./assets/projects/Skipo.webp)
 
 A solo project I'm building from the ground up as a real product, from the initial idea and product design through backend and frontend.
