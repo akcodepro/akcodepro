@@ -55,7 +55,7 @@ Git · GitHub · Heroku
 
 Demo account: `jumper@example.com` / `letsjump`
 
-![Skipo](./assets/projects/Skipo.webp)
+![Skipo](./assets/projects/skipo.webp)
 
 A solo project I'm building from the ground up as a real product, from the initial idea and product design through backend and frontend.
 
