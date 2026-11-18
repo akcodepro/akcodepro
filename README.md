@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alex
 
-**Junior Full-Stack Developer | Ruby on Rails, JavaScript, SQL | Le Wagon Software Engineering & AI | Ex-logistics & hospitality**
+**Full-Stack Developer | Ruby on Rails · PostgreSQL · JavaScript | AI Integration | 10 Years in Operations & Process Improvement**
 
 *From parcels and cocktails to code: I like understanding how things work, finding what's broken, and building something better.*
 
