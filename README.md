@@ -38,7 +38,7 @@ What I enjoy most: turning an idea into something real, then making it work bett
 
 [Live Demo](https://skipo-app-3be98c580ead.herokuapp.com) · [GitHub](https://github.com/akcodepro/skipo) · Demo: `jumper@example.com` / `letsjump`
 
-![SKIPO](./assets/projects/skipo.webp)
+![SKIPO](./assets/projects/Skipo.webp)
 
 Built solo from idea to production: product design, backend and frontend. Pick a duration, a focus and a difficulty, and SKIPO generates a workout, coaches you through it, tracks your progress and shows what others are jumping in a social feed. Ruby frames and validates what the LLM returns, so workouts come back the right length.
 
@@ -56,7 +56,7 @@ I built the location matching with Mapbox, using rounded coordinates so users' e
 
 [Live Demo](https://rundy-lauriel-web-ca5e1380d7c9.herokuapp.com) · [GitHub](https://github.com/akcodepro/rundy)
 
-![Rundy generated running plan](./assets/projects/Rundy.webp)
+![Rundy](./assets/projects/Rundy.webp)
 
 I built the core data models for the AI flow, the RubyLLM integration and prompt for regenerating a session from user feedback, and most of the frontend styling.
 
