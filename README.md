@@ -54,7 +54,8 @@ I built the location matching with Mapbox, using rounded coordinates so users' e
 ### Rundy
 **AI-generated running plans · team of four**
 
-[Live Demo](https://rundy-lauriel-web-ca5e1380d7c9.herokuapp.com) · [GitHub](https://github.com/akcodepro/rundy)
+<!--[Live Demo](https://rundy-lauriel-web-ca5e1380d7c9.herokuapp.com) · -->
+[GitHub](https://github.com/akcodepro/rundy)
 
 ![Rundy](./assets/projects/Rundy.webp)
 
